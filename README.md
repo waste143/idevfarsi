@@ -1,4 +1,4 @@
-#[TeleSurena](https://telegram.me/SurenaTeam)
+#[TeleDev](https://telegram.me/iDevCh)
 
 #کلون یا هرگونه کپی برداری بدون ذکر منبع ممنوع و حلال نمی باشد
 
