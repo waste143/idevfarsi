@@ -4,7 +4,7 @@ local function reload_plugins()
 end
 function is_botowner(msg)
   local var = false
-  local admins = {232006008,239832443}
+  local admins = {255872558}
   for k,v in pairs(admins) do
     if msg.from.id == v then
       var = true
