@@ -119,7 +119,7 @@ local function run(msg, matches)
         return
       end
     end
-    if matches[2] == "تله سورنا" then -- Put everything you like :)
+    if matches[2] == "تله دِو" then -- Put everything you like :)
       if not is_admin(msg) then
         return "مختص ادمین هاست فقط !"
       else
@@ -140,7 +140,7 @@ return {
     "^(آمار)$",
     "^(لیست آمار)$",
     "^(آمار) (گروه) (%d+)",
-    "^(آمار ربات) (تله سورنا)",
+    "^(آمار ربات) (تله دِو)",
 		"^(تله سورنا)"
     }, 
   run = run
